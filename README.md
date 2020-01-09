@@ -5,7 +5,8 @@
 The application records user events to an sqlite database, then allows the user to play them back. During playback, events are compared to those in database, and playback passes if no aberrations exist. The user can choose to playback the events with purposeful bugs, to produce a failed playback test.
 
 
-To start, navigate to `/client` and `yarn install`, then to `/server` and `yarn install && yarn start`.
+To start, navigate to `/server` and `yarn install && yarn start`. 
+Then to `/client` and `yarn install && yarn start`.
 
 App is running at [http://localhost:3001/#/](http://localhost:3001/#/)
 
