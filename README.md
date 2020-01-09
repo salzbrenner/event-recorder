@@ -8,7 +8,7 @@ The application records user events to an sqlite database, then allows the user 
 To start, navigate to `/server` and `yarn install && yarn start`. 
 Then to `/client` and `yarn install && yarn start`.
 
-App is running at [http://localhost:3001/#/](http://localhost:3001/#/)
+App is running at [http://localhost:3000/#/](http://localhost:3000/#/)
 
 The DB syncs with every server up/down, so interactions are recorded for the current session only.
 
