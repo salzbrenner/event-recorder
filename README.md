@@ -18,5 +18,5 @@ The DB syncs with every server up/down, so interactions are recorded for the cur
 - Recordings are listed as they are made. Each recording has two options. "Play normal" is normal playback. "Play with buggy behavior" won't change the button color.
 - In playback, replay with the button at the bottom of page or by refreshing page.
 - Faulty results can also be obtained if clicking button during playback.
-- [http://localhost:3001/#/dashboard](http://localhost:3001/#/dashboard) lists test results as they come in.
+- [http://localhost:3000/#/dashboard](http://localhost:3000/#/dashboard) lists test results as they come in.
 
